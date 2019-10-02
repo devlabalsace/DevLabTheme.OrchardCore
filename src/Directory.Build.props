@@ -5,7 +5,7 @@
     <Title>DevLab theme for Orchard Core</Title>
     <Description>Orchard Core Theme based on TheBlog theme.</Description>
     <PackageTags>Theme;OrchardCore</PackageTags>
-    <VersionPrefix>1.0.13</VersionPrefix>
+    <VersionPrefix>1.0.14</VersionPrefix>
     <VersionSuffix>rc</VersionSuffix>
   </PropertyGroup>
 
